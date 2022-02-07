@@ -1,5 +1,7 @@
 // Kruskal's algorithm in C++
 
+//Comentario prueba git 1
+
 #include <algorithm>
 #include <iostream>
 #include <vector>
